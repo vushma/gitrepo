@@ -1,2 +1,2 @@
 # gitrepo
-Learning about git
+Learning about github
